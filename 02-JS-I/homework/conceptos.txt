@@ -1,0 +1,26 @@
+
+    En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+    Variables
+    Strings
+    Funciones (argumentos, return)
+    Declaraciones if
+    Valores booleanos (true, false)
+
+variables: son una especie de contenedores que alamcenan diferente tipo de valores
+
+    var variable1=0
+
+Strings: caulquier palabra, letra o numeros siempre y cuando esten entre comillas 
+   
+    "HOLA MUNDO"
+     "2344354"
+
+Funciones: son bloques de codigo que realizan algo y puedes llamarlos cuando gustes
+ argumentos: son variables que van dentro de los parentesis de la funcion
+ return: es la manera que los valores de una funcion puedan salir de ella y podamos hacer uso de ellos
+
+Declaraciones if: es una instrucion para hacer algo si la condicion que se le impone es cierta
+o realizar otra si no
+
+valores booleanos: solo existen dos, o es falso o es verdadero lo que estes evaluando
