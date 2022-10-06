@@ -1,0 +1,15 @@
+
+    En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+    for
+    &&, ||, !
+
+
+for es la instruccion para realizar algo las veces que le indiquemos
+
+&& operador logico and, nos indica que es una instruccion de comparacion de dos objetos en el que nos dara resulado true solo si ambos objetos son trues
+
+|| operador logico or, nos indica que es una instruccion de comparacion de dos objetos en el que nos dara resulado true siempre y cuando un solo objeto sea true
+
+!  operador logico not, nos da la instruccion de que un resultado siempre sera inverso 
+
